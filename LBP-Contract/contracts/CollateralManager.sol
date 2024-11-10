@@ -85,3 +85,4 @@ contract CollateralManager {
         return loanAmount <= maxLoan;
     }
 }
+
